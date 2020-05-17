@@ -1,0 +1,218 @@
+@font-face {
+  font-family: 'Palermo';
+  src:  url('palermo.eot');
+  src:  url('palermo.eot') format('embedded-opentype'),
+  url('palermo.ttf') format('truetype'),
+  url('palermo.woff') format('woff'),
+  url('palermo.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Palermo' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  font-size: 16px;
+  color: #8E9BAD;
+  cursor: pointer;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add-plus-button:before {
+  content: "\e900";
+}
+.icon-black-check-box:before {
+  content: "\e901";
+}
+.icon-black-check-box-with-white-check:before {
+  content: "\e902";
+}
+.icon-blank-check-box:before {
+  content: "\e903";
+}
+.icon-button-on:before {
+  content: "\e904";
+}
+.icon-cancel-button:before {
+  content: "\e905";
+}
+.icon-chat-oval-filled-speech-bubbles:before {
+  content: "\e906";
+}
+.icon-check-symbol:before {
+  content: "\e907";
+}
+.icon-circle-with-check-symbol:before {
+  content: "\e908";
+}
+.icon-close-button:before {
+  content: "\e909";
+}
+.icon-copy-content:before {
+  content: "\e90a";
+}
+.icon-create-new-pencil-button:before {
+  content: "\e90b";
+}
+.icon-danger-sign:before {
+  content: "\e90c";
+}
+.icon-download-button:before {
+  content: "\e90d";
+}
+.icon-exit-to-app-button:before {
+  content: "\e90e";
+}
+.icon-expand-arrow:before {
+  content: "\e90f";
+}
+.icon-expand-button:before {
+  content: "\e910";
+}
+.icon-facebook-logo:before {
+  content: "\e911";
+}
+.icon-favorite-heart-button:before {
+  content: "\e912";
+}
+.icon-filled-circle:before {
+  content: "\e913";
+}
+.icon-go-back-left-arrow:before {
+  content: "\e914";
+}
+.icon-google-social:before {
+  content: "\e915";
+}
+.icon-half-filled-rating-star:before {
+  content: "\e916";
+}
+.icon-horizontal-line-remove-button:before {
+  content: "\e917";
+}
+.icon-import:before {
+  content: "\e918";
+}
+.icon-information:before {
+  content: "\e919";
+}
+.icon-instagram-social-network-logo-of-photo-camera:before {
+  content: "\e91a";
+}
+.icon-keyboard-left-arrow-button:before {
+  content: "\e91b";
+}
+.icon-keyboard-right-arrow-button:before {
+  content: "\e91c";
+}
+.icon-levels:before {
+  content: "\e91d";
+}
+.icon-list-button-with-3-elements:before {
+  content: "\e91e";
+}
+.icon-location-arrow:before {
+  content: "\e91f";
+}
+.icon-map-placeholder:before {
+  content: "\e920";
+}
+.icon-mark-as-favorite-star:before {
+  content: "\e921";
+}
+.icon-odnoklassniki-logo:before {
+  content: "\e922";
+}
+.icon-off:before {
+  content: "\e923";
+}
+.icon-on:before {
+  content: "\e924";
+}
+.icon-phone-call-button:before {
+  content: "\e925";
+}
+.icon-printer:before {
+  content: "\e926";
+}
+.icon-radio-on-button:before {
+  content: "\e927";
+}
+.icon-refresh-button:before {
+  content: "\e928";
+}
+.icon-right-arrow-forward:before {
+  content: "\e929";
+}
+.icon-round-error-symbol:before {
+  content: "\e92a";
+}
+.icon-searching-magnifying-glass:before {
+  content: "\e92b";
+}
+.icon-settings-cogwheel-button:before {
+  content: "\e92c";
+}
+.icon-shopping-cart:before {
+  content: "\e92d";
+}
+.icon-show-apps-button:before {
+  content: "\e92e";
+}
+.icon-show-more-button:before {
+  content: "\e92f";
+}
+.icon-show-more-button-with-three-dots:before {
+  content: "\e930";
+}
+.icon-synchronization-arrows:before {
+  content: "\e931";
+}
+.icon-toggle:before {
+  content: "\e932";
+}
+.icon-turn-notifications-on-button:before {
+  content: "\e933";
+}
+.icon-twitter-logo:before {
+  content: "\e934";
+}
+.icon-twitter-social-logotype:before {
+  content: "\e935";
+}
+.icon-upload-button:before {
+  content: "\e936";
+}
+.icon-user-shape:before {
+  content: "\e937";
+}
+.icon-visible-eye:before {
+  content: "\e938";
+}
+.icon-vk-social-logotype:before {
+  content: "\e939";
+}
+.icon-write-email-envelope-button:before {
+  content: "\e93a";
+}
+.icon-yandex_social:before {
+  content: "\e93b";
+}
+.icon-youtube-logotype:before {
+  content: "\e93c";
+}
+.icon-youtube-symbol:before {
+  content: "\e93d";
+}
+.icon-zoom-in:before {
+  content: "\e93e";
+}
